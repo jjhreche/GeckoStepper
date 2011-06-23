@@ -1,0 +1,9 @@
+GeckoStepper	KEYWORD1
+setSpeed	KEYWORD2
+step	KEYWORD2
+move90	KEYWORD2
+move180	KEYWORD2
+moveDeg	KEYWORD2
+stepMotor	KEYWORD2
+disable	KEYWORD2
+version	KEYWORD2
